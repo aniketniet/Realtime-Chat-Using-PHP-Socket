@@ -54,7 +54,7 @@ A real-time chat application using PHP, WebSockets, and MySQL. It includes user 
 
 7. **Access the Application:**
 
-    - Open a web browser and navigate to your server’s address, e.g., `https://yourserver.com/login.html`.
+    - Open a web browser and navigate to your server’s address, e.g., `https://yourserver.com/index.html`.
 
 ## Acknowledgements
 
