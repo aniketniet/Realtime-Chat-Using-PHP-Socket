@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['username'])) {
 }
 
 if (!isset($_SESSION['username'])) {
-    header("Location: login.html");
+    header("Location: index.html");
     exit();
 }
 
